@@ -1,0 +1,63 @@
+C:\Users\Lukas\documents\visual studio 2017\Projects\UserOS\UserOS\bin\Debug\UserOS.exe
+C:\Users\Lukas\documents\visual studio 2017\Projects\UserOS\UserOS\bin\Debug\UserOS.pdb
+C:\Users\Lukas\documents\visual studio 2017\Projects\UserOS\UserOS\bin\Debug\UserOS.xml
+C:\Users\Lukas\documents\visual studio 2017\Projects\UserOS\UserOS\obj\Debug\UserOS.vbprojResolveAssemblyReference.cache
+C:\Users\Lukas\documents\visual studio 2017\Projects\UserOS\UserOS\obj\Debug\UserOS.Form1.resources
+C:\Users\Lukas\documents\visual studio 2017\Projects\UserOS\UserOS\obj\Debug\UserOS.Form2.resources
+C:\Users\Lukas\documents\visual studio 2017\Projects\UserOS\UserOS\obj\Debug\UserOS.Resources.resources
+C:\Users\Lukas\documents\visual studio 2017\Projects\UserOS\UserOS\obj\Debug\UserOS.vbproj.GenerateResource.Cache
+C:\Users\Lukas\documents\visual studio 2017\Projects\UserOS\UserOS\obj\Debug\UserOS.vbproj.CoreCompileInputs.cache
+C:\Users\Lukas\documents\visual studio 2017\Projects\UserOS\UserOS\obj\Debug\UserOS.exe
+C:\Users\Lukas\documents\visual studio 2017\Projects\UserOS\UserOS\obj\Debug\UserOS.xml
+C:\Users\Lukas\documents\visual studio 2017\Projects\UserOS\UserOS\obj\Debug\UserOS.pdb
+C:\Users\Lukas\documents\visual studio 2017\Projects\UserOS\UserOS\obj\Debug\UserOS.Form3.resources
+C:\Users\Lukas\documents\visual studio 2017\Projects\UserOS\UserOS\obj\Debug\UserOS.Form4.resources
+C:\Users\Lukas\documents\visual studio 2017\Projects\UserOS\UserOS\obj\Debug\UserOS.Form5.resources
+C:\Users\Lukas\documents\visual studio 2017\Projects\UserOS\UserOS\obj\Debug\UserOS.Form6.resources
+C:\Users\Lukas\documents\visual studio 2017\Projects\UserOS\UserOS\obj\Debug\UserOS.Form7.resources
+C:\Users\Lukas\documents\visual studio 2017\Projects\UserOS\UserOS\obj\Debug\UserOS.Form8.resources
+C:\Users\Lukas\documents\visual studio 2017\Projects\UserOS\UserOS\obj\Debug\UserOS.Form9.resources
+C:\Users\Lukas\documents\visual studio 2017\Projects\UserOS\UserOS\obj\Debug\UserOS.Form10.resources
+E:\Windows Stuff\UserOS\UserOS\obj\Debug\UserOS.vbprojResolveAssemblyReference.cache
+E:\Windows Stuff\UserOS\UserOS\obj\Debug\UserOS.Resources.resources
+E:\Windows Stuff\UserOS\UserOS\obj\Debug\UserOS.vbproj.GenerateResource.Cache
+E:\Windows Stuff\UserOS\UserOS\obj\Debug\UserOS.vbproj.CoreCompileInputs.cache
+E:\Windows Stuff\UserOS\UserOS\obj\Debug\UserOS.exe
+E:\Windows Stuff\UserOS\UserOS\obj\Debug\UserOS.xml
+E:\Windows Stuff\UserOS\UserOS\obj\Debug\UserOS.pdb
+E:\Windows Stuff\UserOS\UserOS\bin\Debug\UserOS.exe
+E:\Windows Stuff\UserOS\UserOS\bin\Debug\UserOS.pdb
+E:\Windows Stuff\UserOS\UserOS\bin\Debug\UserOS.xml
+E:\Windows Stuff\UserOS\UserOS\obj\Debug\UserOS.netdialog.resources
+E:\Windows Stuff\UserOS\UserOS\obj\Debug\UserOS.UserSystemBrowser.resources
+E:\Windows Stuff\UserOS\UserOS\obj\Debug\UserOS.UserCore.resources
+E:\Windows Stuff\UserOS\UserOS\obj\Debug\UserOS.UserCoreShell.resources
+E:\Windows Stuff\UserOS\UserOS\obj\Debug\UserOS.GUIDesktop.resources
+E:\Windows Stuff\UserOS\UserOS\obj\Debug\UserOS.AboutUserOS.resources
+E:\Windows Stuff\UserOS\UserOS\obj\Debug\UserOS.Settingspanel.resources
+E:\Windows Stuff\UserOS\UserOS\obj\Debug\UserOS.DesktopColor.resources
+E:\Windows Stuff\UserOS\UserOS\obj\Debug\UserOS.QuickOpen.resources
+E:\Windows Stuff\UserOS\UserOS\obj\Debug\UserOS.MiniNote.resources
+E:\Windows Stuff\UserOS\UserOS\obj\Debug\UserOS.setup.resources
+E:\Windows Stuff\UserOS 1.5 NET\UserOS\UserOS\bin\Debug\UserOS.exe.config
+E:\Windows Stuff\UserOS 1.5 NET\UserOS\UserOS\bin\Debug\UserOS.exe
+E:\Windows Stuff\UserOS 1.5 NET\UserOS\UserOS\bin\Debug\UserOS.pdb
+E:\Windows Stuff\UserOS 1.5 NET\UserOS\UserOS\bin\Debug\UserOS.xml
+E:\Windows Stuff\UserOS 1.5 NET\UserOS\UserOS\obj\Debug\UserOS.vbprojResolveAssemblyReference.cache
+E:\Windows Stuff\UserOS 1.5 NET\UserOS\UserOS\obj\Debug\UserOS.setup.resources
+E:\Windows Stuff\UserOS 1.5 NET\UserOS\UserOS\obj\Debug\UserOS.UserCore.resources
+E:\Windows Stuff\UserOS 1.5 NET\UserOS\UserOS\obj\Debug\UserOS.UserCoreShell.resources
+E:\Windows Stuff\UserOS 1.5 NET\UserOS\UserOS\obj\Debug\UserOS.GUIDesktop.resources
+E:\Windows Stuff\UserOS 1.5 NET\UserOS\UserOS\obj\Debug\UserOS.AboutUserOS.resources
+E:\Windows Stuff\UserOS 1.5 NET\UserOS\UserOS\obj\Debug\UserOS.Settingspanel.resources
+E:\Windows Stuff\UserOS 1.5 NET\UserOS\UserOS\obj\Debug\UserOS.DesktopColor.resources
+E:\Windows Stuff\UserOS 1.5 NET\UserOS\UserOS\obj\Debug\UserOS.QuickOpen.resources
+E:\Windows Stuff\UserOS 1.5 NET\UserOS\UserOS\obj\Debug\UserOS.MiniNote.resources
+E:\Windows Stuff\UserOS 1.5 NET\UserOS\UserOS\obj\Debug\UserOS.Resources.resources
+E:\Windows Stuff\UserOS 1.5 NET\UserOS\UserOS\obj\Debug\UserOS.netdialog.resources
+E:\Windows Stuff\UserOS 1.5 NET\UserOS\UserOS\obj\Debug\UserOS.UserSystemBrowser.resources
+E:\Windows Stuff\UserOS 1.5 NET\UserOS\UserOS\obj\Debug\UserOS.vbproj.GenerateResource.cache
+E:\Windows Stuff\UserOS 1.5 NET\UserOS\UserOS\obj\Debug\UserOS.vbproj.CoreCompileInputs.cache
+E:\Windows Stuff\UserOS 1.5 NET\UserOS\UserOS\obj\Debug\UserOS.exe
+E:\Windows Stuff\UserOS 1.5 NET\UserOS\UserOS\obj\Debug\UserOS.xml
+E:\Windows Stuff\UserOS 1.5 NET\UserOS\UserOS\obj\Debug\UserOS.pdb

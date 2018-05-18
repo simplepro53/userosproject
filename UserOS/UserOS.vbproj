@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9F9C7C3B-A165-40CE-97A9-686F0E5748E8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>UserOS.My.MyApplication</StartupObject>
+    <RootNamespace>UserOS</RootNamespace>
+    <AssemblyName>UserOS</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>UserOS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>UserOS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Windows.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.vb">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="setup.Designer.vb">
+      <DependentUpon>setup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="setup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserCore.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserCore.Designer.vb">
+      <DependentUpon>UserCore.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserCoreShell.Designer.vb">
+      <DependentUpon>UserCoreShell.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserCoreShell.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUIDesktop.Designer.vb">
+      <DependentUpon>GUIDesktop.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GUIDesktop.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutUserOS.Designer.vb">
+      <DependentUpon>AboutUserOS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AboutUserOS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settingspanel.Designer.vb">
+      <DependentUpon>Settingspanel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Settingspanel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DesktopColor.Designer.vb">
+      <DependentUpon>DesktopColor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DesktopColor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuickOpen.Designer.vb">
+      <DependentUpon>QuickOpen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="QuickOpen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MiniNote.Designer.vb">
+      <DependentUpon>MiniNote.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MiniNote.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="netdialog.Designer.vb">
+      <DependentUpon>netdialog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="netdialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserSystemBrowser.Designer.vb">
+      <DependentUpon>UserSystemBrowser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserSystemBrowser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setup.resx">
+      <DependentUpon>setup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserCore.resx">
+      <DependentUpon>UserCore.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserCoreShell.resx">
+      <DependentUpon>UserCoreShell.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUIDesktop.resx">
+      <DependentUpon>GUIDesktop.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AboutUserOS.resx">
+      <DependentUpon>AboutUserOS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settingspanel.resx">
+      <DependentUpon>Settingspanel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DesktopColor.resx">
+      <DependentUpon>DesktopColor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuickOpen.resx">
+      <DependentUpon>QuickOpen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MiniNote.resx">
+      <DependentUpon>MiniNote.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="netdialog.resx">
+      <DependentUpon>netdialog.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserSystemBrowser.resx">
+      <DependentUpon>UserSystemBrowser.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Custom-Icon-Design-Pretty-Social-Media-2-Windows.ico" />
+    <Content Include="Icons8-Windows-8-Systems-Windows-Logo.ico" />
+    <None Include="Resources\Windows.png" />
+    <None Include="Resources\Start Button.png" />
+    <None Include="Resources\Windows alt.png" />
+    <None Include="Resources\Configure alt 1.png" />
+    <None Include="Resources\Command Prompt.png" />
+    <None Include="Resources\Windows1.png" />
+    <None Include="Resources\Power - Shut Down.png" />
+    <None Include="Resources\Notepad.png" />
+    <None Include="Resources\Aero WinFlip 3D.png" />
+    <None Include="Resources\Shortcuts.png" />
+    <None Include="Resources\Tasks.png" />
+    <None Include="Resources\Blank Folder.png" />
+    <None Include="Resources\Uninstall.png" />
+    <None Include="Resources\Windows Marketplace.png" />
+    <None Include="Resources\windowpreview.png" />
+    <Content Include="Windows.ico" />
+    <None Include="Resources\Drive-OS-Windows-icon.png" />
+    <None Include="Resources\77c16c0153587692ee85fa52de515e47.png" />
+    <None Include="Resources\wintrans_200x175.gif" />
+    <None Include="Resources\windows-icon.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
